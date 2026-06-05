@@ -1,0 +1,30 @@
+@0   = ~Jestem pewien, że ci się spodoba, drogi przyjacielu.~
+@1   = ~Poe, mógłbyś wyświadczyć mi przysługę? Znalazłem dziennik zawierający romantyczną, lecz tragiczną historię. Chciałbym, abyś ją uwiecznił.~
+@2   = ~Wróciłem, aby wysłuchać poematu o Centeol.~ ~Wróciłam, aby wysłuchać poematu o Centeol.~
+@3   = ~Muszę już iść.~
+@4   = ~Ach, oczywiście! Z przyjemnością! Istnieje wiele historii o tak tragicznym, tak smutnym zakończeniu — muszą być opowiadane wciąż na nowo. Aż ludzie zrozumieją, jak niezwykle krucha jest granica między szczęściem a tragedią!~
+@5   = ~Ach, rzecz jasna! Już skończyłem. Nadałem mu tytuł „Widmo Pełzającej Miłości”. Posłuchaj teraz.~
+@6   = ~"Pod lśniącymi gwiazdami, pod srebrzystym księżycem
+Kryje się opowieść; tragedia; rozbrzmiewająca zguba.
+Historia Pajęczej Damy, która umarła w ponurym smutku."~
+@7   = ~"Niegdyś zakochana; w kolebce serca,
+Utraciła swą duszę; rozpadła się bez wsparcia.
+Pokochała człowieka o nikczemnych zamiarach,
+Spłonęła ona, niczym najsłabszy z łabędzi."~
+@8   = ~"Płakała, błagała, zanosiła się szlochem,
+Lecz pozostawiono ją samotną, w rozpaczy i mroku.
+Rozdarta, opuszczona, nigdy niepocałowana,
+Nigdy nie będzie wspominana."~
+@9   = ~"Zabijała, kochała — z zamglonym spojrzeniem,
+Karmiła się nadzieją i własnym złudzeniem,
+By tylko żyć, pozostać w swym labiryncie,
+Nigdy nie opuścić kryjówki, swej porzuconej mgławicy."~
+@10   = ~"Lecz mimo wszystko umarła, w akcie ostatnim,
+Daleko w lesie; z dala od wszelkich ścieżek.
+Na zawsze splamiona czerwienią pozostanie,
+Biedna Centeol. Na zawsze martwa."~
+@11   = ~To już koniec. To wszystko, co mogłem uczynić, mój przyjacielu. Wiem, że nie żyje. Ale to dobrze. Przynajmniej może wreszcie zaznać spokoju.~
+@12   = ~Żegnaj.~
+
+/* New for v2.0 */
+@13   = ~(Upiorna postać podaje ci smukłą gałązkę oplecioną pajęczyną, napełniając cię uczuciem spokoju i wdzięczności.)~
