@@ -1,5 +1,5 @@
 @0    = ~<CHARNAME>! Czy mogłabym prosić cię o przysługę? Słyszałam, że ty i Gorion wkrótce opuścicie Twierdzę.~
-@1    = ~Skąd o tym słyszałaś? Co? Ja sam dowiedziałem się o tym dopiero pół godziny temu!~
+@1    = ~Skąd o tym słyszałaś? Co? Ja sam dowiedziałem się o tym dopiero pół godziny temu!~ ~Skąd o tym słyszałaś? Co? Ja sama dowiedziałam się o tym dopiero pół godziny temu!~
 @2    = ~Tak sądzę, choć nie wiem dokąd.~
 @3    = ~Pilnuj własnych spraw, staruszko!~
 @4    = ~Uważaj na siebie w podróży, dziecko.~
@@ -8,9 +8,9 @@
 @7    = ~Jak sobie życzysz, dziecko. Zostanę tu jeszcze trochę, pooddycham świeżym powietrzem.~
 @8    = ~Mam stare uszy, ale wiele do nich dociera. Przez wszystkie te kłopoty regularna poczta została poważnie zakłócona. Wiem, że ty i Gorion będziecie podróżować daleko. Czy mogłabym prosić cię o dostarczenie listu? Jeśli twoje kroki zaprowadzą cię do Świątyni Pieśni Poranka na wschód od Beregostu, chciałabym, abyś przekazał go Kapłanowi Świtu Blaise'owi, który tam mieszka, w Westybulu, czyli Przedsionku.~
 @9    = ~Nie wiem, dokąd się udajemy ani kiedy. Mogę nigdy nie mieć okazji go dostarczyć.~
-@10   = ~Jeśli przypadkiem będziemy przechodzić tą drogą, przypuszczam, że mógłbym tam zajrzeć.~
+@10   = ~Jeśli przypadkiem będziemy przechodzić tą drogą, przypuszczam, że mógłbym tam zajrzeć.~ ~Jeśli przypadkiem będziemy przechodzić tą drogą, przypuszczam, że mogłabym tam zajrzeć.~
 @11   = ~Zrobię wszystko, co w mojej mocy!~
-@12   = ~A co ja z tego będę miał?~
+@12   = ~A co ja z tego będę miał?~ ~A co ja z tego będę miała?~
 @13   = ~Ta rozmowa mnie nudzi. Chcę przygód! Chcę tłuc potwory, walczyć! Dostarczanie poczty to nie jest to, co chcę robić w życiu.~
 @14   = ~Myślę, że zaryzykuję i uwierzę, że tam trafisz. A poza tym, dziecko, coś mi mówi, że cokolwiek postanowisz zrobić, na pewno to zrobisz.~
 @15   = ~Mogę ofiarować jedynie swoją wdzięczność. Mój zakon zniechęca do gromadzenia bogactw (zamiast tego wydajemy wszystko na książki). Ale moja wdzięczność jest szczera.~
@@ -32,11 +32,13 @@ Siostra Sapientia ze Świątyni Oghmy poprosiła mnie o dostarczenie listu Kapł
 @29   = ~Ale dlaczego miałby... nieważne. Czy jest cenna? *kaszl* Wezmę ją.~
 @30   = ~Posłaniec: Książka Blaise'a
 
-Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a, choć wyglądała na zaskoczoną, że otrzymuje podarunki z tak daleka. Coś... coś w sposobie, w jaki mówiła, wzbudziło mój niepokój.~
+Siostra Sapientia otrzymała modlitewnik Kapłana Świtu Blaise'a, choć wyglądała na zaskoczoną, że otrzymuje podarunki z tak daleka. Coś... coś w sposobie, w jaki mówiła, wzbudziło mój niepokój.~
 @31   = ~Przechadzałam się nocą, *kaszl*, polowa- to znaczy, oddawałam się ponurym rozmyślaniom. To niespokojne czasy.~
 @32   = ~Posłaniec: Książka Blaise'a
 
-Odnalazłem Siostrę Sapientię, lecz zanim zdołałem wręczyć jej książkę Kapłana Świtu Blaise'a, odeszła szukać — albo polować na — jednego z kotów Candlekeep. Coś jest tu bardzo nie w porządku.~
+Odnalazłem Siostrę Sapientię, lecz zanim zdołałem wręczyć jej książkę Kapłana Świtu Blaise'a, odeszła szukać — albo polować na — jednego z kotów Candlekeep. Coś jest tu bardzo nie w porządku.~ ~Posłaniec: Książka Blaise'a
+
+Odnalazłam Siostrę Sapientię, lecz zanim zdołałem wręczyć jej książkę Kapłana Świtu Blaise'a, odeszła szukać — albo polować na — jednego z kotów Candlekeep. Coś jest tu bardzo nie w porządku.~
 @33   = ~Muszę już iść. Och! Czy to kot? Chodź tu, kiciu, kiciu, kiciu...~
 @34   = ~Jak się miewasz, <CHARNAME>? Wyglądasz na zmęczonego.~
 @35   = ~Och, moja droga dziewczyno! Czyżbyś urosła?~
@@ -51,10 +53,10 @@ Odnalazłem Siostrę Sapientię, lecz zanim zdołałem wręczyć jej książkę 
 @44   = ~Cóż, mam coś do załatwienia w bibliotece. Być może zobaczymy się później.~
 @45   = ~Posłaniec: Książka Blaise'a
 
-Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zaskoczona i zachwycona, gdy go otrzymała, a kiedy odchodziłem, wciąż z zapałem przeglądała jego strony.~
+Siostra Sapientia otrzymała modlitewnik Kapłana Świtu Blaise'a. Była zaskoczona i zachwycona, gdy go otrzymała, a kiedy odchodziłem, wciąż z zapałem przeglądała jego strony.~
 @46   = ~Ależ skąd! Taka pomarszczona rodzynka jak ja miałaby włóczyć się po drogach niczym zakochana nastolatka?~
 @47   = ~Ale wszystko trwa tak krótko... Czy nie chciałabyś zobaczyć twarzy Blaise'a, choćby tylko raz w życiu?~
-@48   = ~Kiedy widziałem twojego przyjaciela w Świątyni Lathandera, był straszliwie chory. Kaszlał okropnie, odrywając wielkie ilości flegmy, a do tego miał jaskrawozielone plamy! *Może umrzeć*.~
+@48   = ~Kiedy widziałem twojego przyjaciela w Świątyni Lathandera, był straszliwie chory. Kaszlał okropnie, odrywając wielkie ilości flegmy, a do tego miał jaskrawozielone plamy! *Może umrzeć*.~ ~Kiedy widziałam twojego przyjaciela w Świątyni Lathandera, był straszliwie chory. Kaszlał okropnie, odrywając wielkie ilości flegmy, a do tego miał jaskrawozielone plamy! *Może umrzeć*.~
 @49   = ~Widzę, że wiesz, czego chcesz, Siostro Sapientio. Żegnaj więc.~
 @50   = ~Co? Ależ nie, to niemożliwe...~
 @51   = ~I jeszcze jedno — zupełnie nie miał ochoty czytać. Jeśli to nie jest znak nadciągającej zguby, to ja już nie wiem, co nim jest.~
@@ -63,7 +65,7 @@ Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zas
 @54   = ~Szerokiej drogi.~
 @55   = ~Posłaniec: Książka Blaise'a
 
-Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zaskoczona i zachwycona, gdy go otrzymała. Zasugerowałem jej, by odwiedziła swojego przyjaciela, a ona się zgodziła.~
+Siostra Sapientia otrzymała modlitewnik Kapłana Świtu Blaise'a. Była zaskoczona i zachwycona, gdy go otrzymała. Zasugerowałem jej, by odwiedziła swojego przyjaciela, a ona się zgodziła.~
 @56   = ~Oto 50 złotych monet — powinno to opłacić przejazd wozem kupieckim i noclegi po drodze.~
 @57   = ~Podróżuj w dobrym stylu, Siostro Sapientio! Te 200 złotych monet powinno zapewnić ci wygodną i bezpieczną podróż aż do Świątyni.~
 @58   = ~Muszę już iść. I — cokolwiek tu robisz w swoim dawnym domu — proszę, uważaj na siebie. Ostatnio dzieją się tu bardzo *dziwne* rzeczy...~
@@ -74,16 +76,16 @@ Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zas
 @63   = ~Naprawdę trzymają cię tylko przy tych obowiązkach...~
 @64   = ~Czy dostarczyłeś książkę Siostrze Sapientii? Czy ona ma się dobrze?~
 @65   = ~Jeszcze nie, Blaise. Candlekeep to twardy orzech do zgryzienia.~
-@66   = ~To trochę niezręczne... kiedy opuszczałem Candlekeep, dała mi list do ciebie. I... gdzieś go zapodziałem. Ale dobra wiadomość jest taka, że oto on!~
-@67   = ~Nie jestem pewien... czy ona jest tą samą osobą, do której pisałeś przez te wszystkie lata...~
-@68   = ~Dostarczyłem, ale... ona była... nieważne.~
-@69   = ~Dostarczyłem! Bardzo spodobała jej się książka.~
-@70   = ~Dostarczyłem! Bardzo spodobała jej się książka.~
-@71   = ~Dostarczyłem! Miała lekki kaszel, ale poza tym czuła się dobrze. Bardzo spodobała jej się książka.~
-@72   = ~Dostarczyłem! Miała straszliwy kaszel i plamy, jadowicie zielone. *Może umrzeć*. Na pewno ucieszy ją twoja wizyta, zanim kopnie w kalendarz.~
-@73   = ~Dostarczyłem! Bardzo jej się spodobała i zapowiedziała, że wkrótce cię odwiedzi.~
-@74   = ~Dostarczyłem! Bardzo jej się spodobała. Ciebie, hm, może czekać miła niespodzianka wkrótce...~
-@75   = ~Nie, nie dostarczyłem i szczerze mówiąc mam już dość biegania z posyłkami dla każdego leniwego żebraka, którego spotykam. Rusz wreszcie swoje chude cztery litery i *zrób* coś sam! Oto twój książka z powrotem!~
+@66   = ~To trochę niezręczne... kiedy opuszczałem Candlekeep, dała mi list do ciebie. I... gdzieś go zapodziałem. Ale dobra wiadomość jest taka, że oto on!~ ~To trochę niezręczne... kiedy opuszczałam Candlekeep, dała mi list do ciebie. I... gdzieś go zapodziałam. Ale dobra wiadomość jest taka, że oto on!~
+@67   = ~Nie jestem pewien... czy ona jest tą samą osobą, do której pisałeś przez te wszystkie lata...~ ~Nie jestem pewna... czy ona jest tą samą osobą, do której pisałeś przez te wszystkie lata...~
+@68   = ~Dostarczyłem, ale... ona była... nieważne.~ ~Dostarczyłam, ale... ona była... nieważne.~
+@69   = ~Dostarczyłem! I...och... Bardzo spodobała jej się książka.~ ~Dostarczyłam! I...och... Bardzo spodobała jej się książka.~
+@70   = ~Dostarczyłem! Bardzo spodobała jej się książka.~ ~Dostarczyłam! Bardzo spodobała jej się książka.~
+@71   = ~Dostarczyłem! Miała lekki kaszel, ale poza tym czuła się dobrze. Bardzo spodobała jej się książka.~ ~Dostarczyłam! Miała lekki kaszel, ale poza tym czuła się dobrze. Bardzo spodobała jej się książka.~
+@72   = ~Dostarczyłem! Miała straszliwy kaszel i plamy, jadowicie zielone. *Może umrzeć*. Na pewno ucieszy ją twoja wizyta, zanim kopnie w kalendarz.~ ~Dostarczyłam! Miała straszliwy kaszel i plamy, jadowicie zielone. *Może umrzeć*. Na pewno ucieszy ją twoja wizyta, zanim kopnie w kalendarz.~
+@73   = ~Dostarczyłem! Bardzo jej się spodobała i zapowiedziała, że wkrótce cię odwiedzi.~ ~Dostarczyłam! Bardzo jej się spodobała i zapowiedziała, że wkrótce cię odwiedzi.~
+@74   = ~Dostarczyłem! Bardzo jej się spodobała. A ciebie, hm, może czekać miła niespodzianka wkrótce...~ ~Dostarczyłam! Bardzo jej się spodobała. A ciebie, hm, może czekać miła niespodzianka wkrótce...~
+@75   = ~Nie, nie dostarczyłem i szczerze mówiąc mam już dość biegania z posyłkami dla każdego leniwego żebraka, którego spotykam. Rusz wreszcie swoje chude cztery litery i *zrób* coś sam! Oto twój książka z powrotem!~ ~Nie, nie dostarczyłam i szczerze mówiąc mam już dość biegania z posyłkami dla każdego leniwego żebraka, którego spotykam. Rusz wreszcie swoje chude cztery litery i *zrób* coś sam! Oto twój książka z powrotem!~
 @76   = ~Przykro mi to słyszeć.~
 @77   = ~Ale… przepraszam, młoda pani, twoje różowe włosy. Czy ty jesteś… Imoen z Candlekeep?~
 @78   = ~Słyszałaś to, <CHARNAME>? Jestem sławna! Wielka poszukiwaczka przygód! Znają mnie na całym Wybrzeżu Mieczy!~
@@ -96,7 +98,7 @@ Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zas
 @85   = ~Czy mogę pomóc w czymś jeszcze?~
 @86   = ~Przepraszam, szukam Kapłana Świtu Blaise'a. Przysyła mnie Siostra Sapientia z Candlekeep.~
 @87   = ~Hej — jestem Wielką Poszukiwaczką Przygód(TM). Nie macie może jakichś drobnych zadań, które podniosłyby moją sławę, napięły mięśnie i może przyniosły trochę gotówki?~
-@88   = ~Witaj. Jestem <CHARNAME> z Candlekeep, wędrujący po świecie. A ty?~
+@88   = ~Witaj. Jestem <CHARNAME> z Candlekeep, wędrujący po świecie. A ty?~ ~Witaj. Jestem <CHARNAME> z Candlekeep, wędrująca po świecie. A ty?~
 @89   = ~Wyglądasz na zmartwionego. Czy mogę w czymś pomóc?~
 @90   = ~Nie, spróbuję w głównej świątyni. Dziękuję za wskazówki.~
 @91   = ~Niczego nie potrzebuję. Po prostu zwiedzam teren.~
@@ -109,7 +111,7 @@ Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zas
 @98   = ~Jestem Kapłanem Świtu Blaise'em. <CHARNAME> z Candlekeep? Musisz być dzieckiem Goriona.~
 @99   = ~Ty… mnie znasz? Ile to mrocznych spisków i tajnych paktów śledzi moje kroki? Czy ja nie mogę mieć chwili prywatności? Argh!~
 @100  = ~Już jestem sławna! Wkrótce echo moich kroków zatrzęsie ziemią! Heh heh heh.~
-@101  = ~Nie, musisz mylić mnie z *jakimś innym* <CHARNAME> z Candlekeep. To bardzo popularne imię.~
+@101  = ~Nie, musisz mylić mnie z *jakimś innym* <CHARNAME> z Candlekeep. To bardzo popularne imię.~ ~Nie, musisz mylić mnie z *jakąś inną* <CHARNAME> z Candlekeep. To bardzo popularne imię.~
 @102  = ~Nic tak złowrogiego. Regularnie koresponduję z mieszkanką Candlekeep. Wspominała o was, i to wielokrotnie.~
 @103  = ~Mam nadzieję, że nic krępującego.~
 @104  = ~To kłamstwa, same kłamstwa! (Eee, co dokładnie o mnie mówiła?)~
@@ -129,7 +131,7 @@ Dostarczyłem Siostrze Sapientii modlitewnik Kapłana Świtu Blaise'a. Była zas
 @118  = ~A o co tu chodzi z żabami?~
 @119  = ~Posłaniec: List Siostry Sapientii
 
-Znalazłem Kapłana Świtu Blaise'a myjącego podłogi w Świątyni Pieśni Poranka. Był zachwycony, gdy otrzymał list od Siostry Sapientii. Okazało się, że korespondują wiernie od czterdziestu lat, nigdy się nie spotykając twarzą w twarz. Taka już chyba jest życie monastyczne.~
+Kapłana Świtu Blaise'a został odnaleziony - myje podłogi w Świątyni Pieśni Poranka. Był zachwycony, gdy otrzymał list od Siostry Sapientii. Okazało się, że korespondują wiernie od czterdziestu lat, nigdy się nie spotykając twarzą w twarz. Taka już chyba jest życie monastyczne.~
 @120  = ~Żaby? Ha ha ha. Nie było żadnych żab. To musiał być jakiś nieszczęśliwy wypadek. Takie wypadki zdarzają się w Candlekeep cały czas. *To przez książki*. Nic więcej nie wiem — teraz pozwólcie mi odejść!~
 @121  = ~...Panno Imoen...?~
 @122  = ~Och, *nieszczęśliwy wypadek*. Tak, Candlekeep słynie z takich, hm, nieszczęśliwych wypadków.~
@@ -140,7 +142,7 @@ Znalazłem Kapłana Świtu Blaise'a myjącego podłogi w Świątyni Pieśni Pora
 @127  = ~Może powinieneś częściej odwiedzać swoją przyjaciółkę — zaparzyć herbatę, powspominać stare czasy, tego typu rzeczy.~
 @128  = ~Jak długo już wymieniacie listy?~
 @129  = ~Wymieniamy listy tam i z powrotem od, och, czterdziestu lat. Sapientia i ja nigdy się jednak nie spotkaliśmy. Mnisi i zakonnice rzadko opuszczają swoje klasztory — sam wiesz, jak to jest.~
-@130  = ~Musisz być młodym <CHARNAME>, dzieckiem Goriona.~
+@130  = ~Musisz być młodym <CHARNAME>, dzieckiem Goriona.~ ~Musisz być młodą <CHARNAME>, dzieckiem Goriona.~
 @131  = ~To... cóż, kiedy mówię, że to drobna sprawa, mam na myśli jedynie liczbę uczestników i nasze względne znaczenie dla świata. Dla mnie to jednak sprawa bardzo ważna. Od pewnego czasu koresponduję z zakonnicą ze Świątyni Oghmy w Candlekeep, Siostrą Sapientią. Przez te niespokojne czasy i bandytów na drogach zwykła poczta została zakłócona. Od dawna nie otrzymałem od niej listu.~
 @132  = ~(zzz)~
 @133  = ~W takim razie mam dla ciebie dobre wieści! Siostra Sapientia powierzyła mi taki list, oto on!~
@@ -152,11 +154,11 @@ Znalazłem Kapłana Świtu Blaise'a myjącego podłogi w Świątyni Pieśni Pora
 /* new for v2.6: lines @139, @140 split in two */
 @139  = ~Od pewnego czasu, korzystając z umiejętności zdobytych w służbie Lathanderowi, zajmuję się czymś nieco bardziej egoistycznym — przygotowuję księgę modlitw i codziennych nabożeństw jako dar dla mojej drogiej przyjaciółki.~
 @140  = ~Od pewnego czasu, korzystając z umiejętności zdobytych w służbie Lathanderowi, zajmuję się czymś nieco bardziej egoistycznym — przygotowuję księgę modlitw i codziennych nabożeństw jako dar dla mojej drogiej przyjaciółki, Siostry Sapientii z Candlekeep.~
-@141  = ~Wiadomość dla Siostry Sapientii? Znam ją!~
+@141  = ~Wiadomość od Siostry Sapientii? Znam ją!~
 @142  = ~(zzz)... Co? Mówiłeś coś?~
 @143  = ~Cóż, może mógłbym dostarczyć tę książkę za niewielką opłatą.~
 @144  = ~Sam jestem wykluczony z Candlekeep, bez księgi cudów i tajemnic nie mogę tam wejść.~
-@145  = ~Mógłbym spróbować zanieść tę książkę za ciebie. I tak już biegam z posyłkami po połowie Wybrzeża Mieczy.~
+@145  = ~Mogę spróbować zanieść tę książkę za ciebie. I tak już biegam z posyłkami po połowie Wybrzeża Mieczy.~
 @146  = ~Wygląda na to, że jesteś w niezłym kłopocie.~
 @147  = ~Być może...~
 @148  = ~Czy powinienem powierzyć ci tę książkę? Nie. Wybacz, nieznajomy, ale nie znam cię, a po twoim wyglądzie sądzę, że raczej wyrwałbyś z niej strony, żeby podetrzeć sobie tyłek, zamiast poszukać liści w najbliższych krzakach.~
@@ -166,15 +168,15 @@ Znalazłem Kapłana Świtu Blaise'a myjącego podłogi w Świątyni Pieśni Pora
 @152  = ~Czy ta księga jest tomem tajemnicy i cudów, dzięki któremu Candlekeep pozwoli mi wejść?~
 @153  = ~Zrobię, co w mojej mocy.~
 @154  = ~Nie wiem, dokąd zaprowadzą mnie podróże, ale jeśli powierzysz mi tę książkę, przysięgam dostarczyć ją albo znaleźć kogoś godnego zaufania, kto przeprowadzi ją przez bramy.~
-@155  = ~Jestem wykluczony z Candlekeep i szczerze mówiąc nie widzę powodu, by tam wracać. Znajdź innego posłańca.~
-@156  = ~Nie sądzę, bym miał wracać do Candlekeep. Lepiej poszukaj innego posłańca.~
+@155  = ~Jestem wykluczony z Candlekeep i szczerze mówiąc nie widzę powodu, by tam wracać. Znajdź innego posłańca.~ ~Jestem wykluczona z Candlekeep i szczerze mówiąc nie widzę powodu, by tam wracać. Znajdź innego posłańca.~
+@156  = ~Nie sądzę, bym miał wracać do Candlekeep. Lepiej poszukaj innego posłańca.~ ~Nie sądzę, bym miała wracać do Candlekeep. Lepiej poszukaj innego posłańca.~
 @157  = ~Siostra Sapientia również ma cię w swoich myślach — powierzyła mi dla ciebie list.~
 @158  = ~Nie. To tylko książka.~
 @159  = ~To wystarczy.~
 @160  = ~Dziękuję. Och, *dziękuję*.~
 @161  = ~Posłaniec: Książka Blaise'a
 
-Kapłan Świtu Blaise poprosił mnie, abym dostarczył niewielką księgę modlitw Siostrze Sapientii ze Świątyni Oghmy w Candlekeep, jeśli kiedykolwiek tam wrócę. Niestety, księga nie jest tomem cudów i tajemnic, który umożliwiłby mi wejście do Twierdzy, choć jest pięknie iluminowana.~
+Kapłan Świtu Blaise poprosił mnie, abym dostarczył(a) niewielką księgę modlitw Siostrze Sapientii ze Świątyni Oghmy w Candlekeep, jeśli kiedykolwiek tam wrócę. Niestety, księga nie jest tomem cudów i tajemnic, który umożliwiłby mi wejście do Twierdzy, choć jest pięknie iluminowana.~
 @162  = ~Rozumiem. Jeśli kiedyś zmienisz zdanie, będę tutaj. (westchnienie) Myjąc podłogi.~
 @163  = ~Ona… ona jest chora. Och nie, och nie. Ja… ja muszę ją wkrótce odwiedzić.~
 @164  = ~To dobra wiadomość.~
@@ -198,40 +200,44 @@ Kapłan Świtu Blaise poprosił mnie, abym dostarczył niewielką księgę modli
 @182  = ~Tak, on, eee… umarł we śnie. Bardzo spokojnie. Jego ostatnie myśli były o tobie.~
 @183  = ~Zginął bohatersko, broniąc Świątyni Lathandera. Każdy poszukiwacz przygód byłby z niego dumny.~
 @184  = ~To był tylko tragiczny wypadek, nic więcej nie mogę powiedzieć.~
-@185  = ~Zawsze ufałaś mi, że zrobię to, co słuszne, Siostro Sapientio. Że będę *dobry*. Nigdy nie wiedziałem dlaczego. Mogę tylko powiedzieć, że… zabicie go… sprawiło mi *przyjemność*. I co o tym myśleć?~
+@185  = ~Zawsze ufałaś mi, że zrobię to, co słuszne, Siostro Sapientio. Że będę *dobry*. Nigdy nie wiedziałem dlaczego. Mogę tylko powiedzieć, że… zabicie go… sprawiło mi *przyjemność*. I co o tym myśleć?~ ~Zawsze ufałaś mi, że zrobię to, co słuszne, Siostro Sapientio. Że będę *dobra*. Nigdy nie wiedziałam dlaczego. Mogę tylko powiedzieć, że… zabicie go… sprawiło mi *przyjemność*. I co o tym myśleć?~
 @186  = ~To dobra wiadomość. A jednak chciałabym, żebym mogła zobaczyć jego twarz choć raz, zanim on, cóż...~
 @187  = ~Łączę się z tobą w żałobie.~
-@188  = ~Ale przez lata, dekady, wy dwoje znaliście swoje *umysły*. (Nie to, żebym czytał wasze listy czy coś.) Jest jeszcze coś — Blaise miał książkę, którą chyba chciał ci przekazać.~
+@188  = ~Ale przez lata, dekady, wy dwoje znaliście swoje *umysły*. (Nie to, żebym czytał(a) wasze listy czy coś.) Jest jeszcze coś — Blaise miał książkę, którą chyba chciał ci przekazać.~
 @189  = ~Szkoda, teraz jest już trochę za późno.~
 @190  = ~Och, biedny człowiek.~
 @191  = ~Przynajmniej odszedł szybko. I — zostawił książkę. Myślę, że była dla ciebie.~
 @192  = ~Takie nieszczęśliwe wypadki przy sprzątaniu to najgorsze, prawda?~
 @193  = ~Wolałabym, żeby żył dla świątyni.~
 @194  = ~Wyglądało na to, że miał dobre życie. Przed tym, no wiesz, *tym*. Ale proszę — znalazłem tę książkę. Jestem pewien, że chciał, żebyś ją dostała.~
-@195  = ~Na pewno docenili jego umiejętności z mopem.~
+@195  = ~Na pewno doceniai jego wywijanie mopem.~
 @196  = ~Ale to… och! On ją dokończył!~
 @197  = ~(pociągnięcie nosem) To piękne...~
 @198  = ~Posłaniec: Śmierć Blaise'a
 
-Przekazałem Siostrze Sapientii wiadomość o śmierci Kapłana Świtu Blaise'a. Była pogrążona w żałobie, ale iluminowany modlitewnik, który znalazłem, może choć trochę złagodzić jej ból.~
+Siostra Sapientia otrzymała wiadomość o śmierci Kapłana Świtu Blaise'a. Była pogrążona w żałobie, ale iluminowany modlitewnik, może choć trochę złagodzi jej ból.~
 @199  = ~Dziękuję, moje dziecko. Będę myśleć o moim przyjacielu i spróbuję pamiętać nie o bólu jego odejścia, lecz o radości jego dni.~
 @200  = ~Posłaniec: Śmierć Blaise'a
 
-Przekazałem Siostrze Sapientii wiadomość o śmierci Kapłana Świtu Blaise'a. Była pogrążona w żałobie, ale będzie starała się pamiętać radość, jaką oboje czerpali ze swojej korespondencji.~
-@201  = ~Jesteś okrutny ponad potrzebę, <CHARNAME>. Droga być może cię zahartowała. A może czas cię złagodzi? Ale nieważne. Będę myśleć o moim przyjacielu i spróbuję pamiętać nie o bólu jego odejścia, lecz o radości jego dni.~
+Siostra Sapientia otrzymała wiadomość o śmierci Kapłana Świtu Blaise'a. Była pogrążona w żałobie, ale będzie starała się pamiętać radość, jaką oboje czerpali ze swojej korespondencji.~
+@201  = ~Jesteś okrutny ponad potrzebę, <CHARNAME>. Droga być może cię zahartowała. A może czas cię złagodzi? Ale nieważne. Będę myśleć o moim przyjacielu i spróbuję pamiętać nie o bólu jego odejścia, lecz o radości jego dni.~ ~Jesteś okrutna ponad potrzebę, <CHARNAME>. Droga być może cię zahartowała. A może czas cię złagodzi? Ale nieważne. Będę myśleć o moim przyjacielu i spróbuję pamiętać nie o bólu jego odejścia, lecz o radości jego dni.~
 @202  = ~Posłaniec: Śmierć Blaise'a
 
-Przekazałem Siostrze Sapientii wiadomość o śmierci Kapłana Świtu Blaise'a. Niektórzy po prostu nie potrafią przyjąć żartu.~
+Siostra Sapientia otrzymała wiadomość o śmierci Kapłana Świtu Blaise'a. Niektórzy po prostu nie potrafią przyjąć żartu.~
 @203  = ~<CHARNAME>, co się z tobą stało?~
-@204  = ~Nic się nie stało. Zawsze taki byłem. Po prostu nie chciałeś tego widzieć.~
+@204  = ~Nic się nie stało. Zawsze taki byłem. Po prostu nie chciałeś tego widzieć.~ ~Nic się nie stało. Zawsze taka byłam. Po prostu nie chciałeś tego widzieć.~
 @205  = ~Od śmierci Goriona wszystko jest… i te sny… pomóż mi!~
 @206  = ~Byłam taka ślepa...~
 @207  = ~Posłaniec: Śmierć Blaise'a
 
-Powiedziałem Siostrze Sapientii, co zrobiłem jej małemu przyjacielowi. W końcu ta zakonnica widzi prawdziwego *mnie*, a nie tę maskę słodkiego naiwniaka, którą myślała, że wychowała. Nieważne: mam inne sprawy w Candlekeep.~
+Powiedziałem Siostrze Sapientii, co zrobiłem jej małemu przyjacielowi. W końcu ta zakonnica widzi prawdziwego *mnie*, a nie tę maskę słodkiego naiwniaka, którą myślała, że wychowała. Nieważne: mam inne sprawy w Candlekeep.~ ~Posłaniec: Śmierć Blaise'a
+
+Powiedziałem Siostrze Sapientii, co zrobiłam jej małemu przyjacielowi. W końcu ta zakonnica widzi prawdziwą *mnie*, a nie tę maskę słodkiej naiwniaczki, którą myślała, że wychowała. Nieważne: mam inne sprawy w Candlekeep.~
 @208  = ~Nie wiem, czy potrafię. Wybacz mi, <CHARNAME>. Och, mój drogi Blaise...~
 @209  = ~Posłaniec: Śmierć Blaise'a
 
-Powiedziałem Siostrze Sapientii, co zrobiłem jej przyjacielowi. Czy ja w ogóle pamiętam dlaczego? Zabiłem już tylu od czasu opuszczenia Candlekeep — ale *ta* śmierć była zła? Czy nie powinno być łatwiej odróżnić jedno od drugiego?~
+Powiedziałem Siostrze Sapientii, co zrobiłem jej przyjacielowi. Czy ja w ogóle pamiętam dlaczego? Zabiłem już tylu od czasu opuszczenia Candlekeep — ale *ta* śmierć była zła? Czy nie powinno być łatwiej odróżnić jedno od drugiego?~ ~Posłaniec: Śmierć Blaise'a
+
+Powiedziałam Siostrze Sapientii, co zrobiłam jej przyjacielowi. Czy ja w ogóle pamiętam dlaczego? Zabiłam już tylu od czasu opuszczenia Candlekeep — ale *ta* śmierć była zła? Czy nie powinno być łatwiej odróżnić jedno od drugiego?~
 @210  = ~Ale teraz, przy tych wszystkich problemach — Kryzys Żelaza, bandyci wyskakujący z żywopłotów i zagajników, pogłoski o wojnie z Amn...~
 @211  = ~Trudno znaleźć godnego zaufania posłańca.~
